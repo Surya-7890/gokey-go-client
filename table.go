@@ -1,4 +1,4 @@
-package main
+package gokey
 
 import (
 	"encoding/json"
